@@ -1,10 +1,13 @@
-# Author: Venkatesh Krishnamurthy, doctoral candidate, 
-# Department of Materials Science and Engineering,
-# Carnegie Mellon University. Copyright 2021.
+"""
+Author: Venkatesh Krishnamurthy, doctoral candidate, 
+Department of Materials Science and Engineering,
+Carnegie Mellon University. Copyright 2021.
 
-# This script generates the OC curves for different values of n and c
-# And also calculates the probability of accepting a batch given the sampling parameters
-# Sampling parameters: n (number of trials), c (acceptance number), p (probability of defect/defect fraction in the lot being sampled)
+This script generates the OC curves for different values of n and c
+And also calculates the probability of accepting a batch given the sampling parameters
+Sampling parameters: n (number of trials), c (acceptance number), 
+p (probability of defect/defect fraction in the lot being sampled).
+"""
 
 # Import modules
 import numpy as np
