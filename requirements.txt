@@ -1,0 +1,6 @@
+The following python modules must be installed in the conda/pip environment (highly recommend creating an environment):
+scipy
+numpy
+matplotlib
+seaborn (For plotting histogram for the DOE simplified model)
+sklearn (For linear regression in DOE)
